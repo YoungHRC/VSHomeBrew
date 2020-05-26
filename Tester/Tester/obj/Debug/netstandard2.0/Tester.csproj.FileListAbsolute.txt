@@ -1,0 +1,16 @@
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\bin\Debug\netstandard2.0\Tester.deps.json
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\bin\Debug\netstandard2.0\Tester.dll
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\bin\Debug\netstandard2.0\ref\Tester.dll
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\bin\Debug\netstandard2.0\Tester.pdb
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\obj\Debug\netstandard2.0\Views\RecipeAddEdit.xaml.g.cs
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\obj\Debug\netstandard2.0\Views\RecipeList.xaml.g.cs
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\obj\Debug\netstandard2.0\Views\TheRecipe.xaml.g.cs
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\obj\Debug\netstandard2.0\Tester.csproj.CoreCompileInputs.cache
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\obj\Debug\netstandard2.0\Tester.AssemblyInfoInputs.cache
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\obj\Debug\netstandard2.0\Tester.AssemblyInfo.cs
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\obj\Debug\netstandard2.0\Tester.dll
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\obj\Debug\netstandard2.0\ref\Tester.dll
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\obj\Debug\netstandard2.0\Tester.pdb
+C:\Users\Hrcyo\source\repos\Tester\Tester\Tester\obj\Debug\netstandard2.0\Tester.csprojAssemblyReference.cache
