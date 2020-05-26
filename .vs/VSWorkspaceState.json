@@ -3,7 +3,8 @@
     "",
     "\\Tester",
     "\\Tester\\Tester",
-    "\\Tester\\Tester\\ViewModels"
+    "\\Tester\\Tester\\ViewModels",
+    "\\VSHomeBrew"
   ],
   "PreviewInSolutionExplorer": false
 }
